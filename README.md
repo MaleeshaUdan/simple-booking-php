@@ -4,4 +4,4 @@
 - by editing the user table you can add new users to the system
 
 ## Here are some screenshots of the system
-  <img src="img/01.png" height='500px' width='500px'>
+  <img src="img/01.png">
