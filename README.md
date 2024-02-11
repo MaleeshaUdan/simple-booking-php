@@ -5,3 +5,5 @@
 
 ## Here are some screenshots of the system
   <img src="img/01.png">
+  <br/>
+ <img src="img/02.png">
