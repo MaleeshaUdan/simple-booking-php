@@ -3,5 +3,5 @@
 - then use user@gmail.com and user123 username and password for loging to the system
 - by editing the user table you can add new users to the system
 
-
-  <img src="img/01.png">
+## Here are some screenshots of the system
+  <img src="img/01.png" height='200px' width='200px'>
